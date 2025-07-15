@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/appointmentcalender/static/css/main.a6c4278f.css",
-    "main.js": "/appointmentcalender/static/js/main.e51c03df.js",
+    "main.css": "/appointmentcalender/static/css/main.53d43814.css",
+    "main.js": "/appointmentcalender/static/js/main.fc52769d.js",
     "static/js/146.816dd686.chunk.js": "/appointmentcalender/static/js/146.816dd686.chunk.js",
     "index.html": "/appointmentcalender/index.html",
-    "main.a6c4278f.css.map": "/appointmentcalender/static/css/main.a6c4278f.css.map",
-    "main.e51c03df.js.map": "/appointmentcalender/static/js/main.e51c03df.js.map",
+    "main.53d43814.css.map": "/appointmentcalender/static/css/main.53d43814.css.map",
+    "main.fc52769d.js.map": "/appointmentcalender/static/js/main.fc52769d.js.map",
     "146.816dd686.chunk.js.map": "/appointmentcalender/static/js/146.816dd686.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6c4278f.css",
-    "static/js/main.e51c03df.js"
+    "static/css/main.53d43814.css",
+    "static/js/main.fc52769d.js"
   ]
 }
