@@ -387,6 +387,13 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+/* Hide element on screen width 767px or less */
+@media screen and (max-width: 767px) {
+  .hide-on-mobile {
+    display: none !important;
+  }
+}
+
 
 /* Day View Styles */
 .day-view-header {

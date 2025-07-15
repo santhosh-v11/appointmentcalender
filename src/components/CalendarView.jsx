@@ -69,7 +69,9 @@ const CalendarView = ({ appointments, onAppointmentsChange, onLogout, theme, tog
       <header className="app-header">
         <div className="header-content">
           <h1 className="app-title">Clinic Appointment Calendar</h1>
+          
           <div className="header-actions">
+            <button className="add-appointment-button hide-on-mobile" onClick={() => handleDayClick(new Date())} >Book an Appointment</button>  
             <button onClick={toggleTheme} className="theme-toggle-button" aria-label="Toggle theme">
               {theme === "light" ? (
                 <svg
